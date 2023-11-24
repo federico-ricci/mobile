@@ -1,0 +1,120 @@
+/* html{Body: #393d41 – 1.2rem – Open Sans – interlinea 1.65 */
+    /* Headings: #25a2c3 – Montserrat (bold) – interlinea 1.5 */
+/* non ho capito questi dati se sono di css o dell'head di html */
+/* ho un problema costante di css, mi dice sempre un errore */
+body{text-align: center;}
+
+header {
+    
+    text-align: center;
+    font-weight: bold;  
+    text-align: center;
+    width:500px;
+    height: 450px;
+    background-image: url(/images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:auto;
+    text-transform: uppercase;
+    box-sizing: border-box;
+
+
+}
+
+.box { text-align: center;
+    font-weight: bold;  
+    text-align: center;
+    width:auto;
+    border: #dee1e3;
+    width: auto;
+    height: auto;
+    margin: auto;
+    text-transform: uppercase;
+    box-sizing: content-box;
+    font-size: bold;
+    
+
+}
+#portatile{
+    width:500px;
+    height: 450px;
+    background-image: url(/images/notebook.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 500px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+#box-red{
+    text-align: center;
+    size-adjust: border;
+    background-color: orange;
+    border-top: 80px;
+    margin: auto;
+    box-sizing: content-box;
+}
+
+#logo-alto{
+    
+    text-align: center;
+    size-adjust: border;
+    background-color: black;
+    border-top: 80px;
+    margin: auto;
+    box-sizing: content-box;
+
+    
+}
+#foto-1 {
+    text-align: center;
+    width:500px;
+    height: 450px;
+    background-image: url(/images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+
+}
+
+
+article { 
+text-align: center;
+margin: auto;
+
+
+h3{
+    color: cadetblue;
+    text-align: center;
+    width: 500px;
+    height: 450px;
+}
+
+
+p{
+    font-size: medium;
+    text-align: center;
+
+}
+
+#bottom
+{ color: black;
+text-align: center;
+background-color: cornflowerblue;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+text-transform: uppercase;
+box-sizing: content-box;
+}
+
+h4{color: white;
+    font-size: bold;
+    width: 500px;
+    height: 450px;
+
+}
